@@ -22,3 +22,5 @@ Seven different types of dry beans were used in this research, taking into accou
 
 <img width="426" alt="Screenshot 2023-04-20 at 1 33 23 AM" src="https://user-images.githubusercontent.com/72308644/233188804-f4bbead5-3e4f-4216-baba-026c5748b42b.png">
 
+# Written by : Inaayat Goyal 102003050 3CO26
+
